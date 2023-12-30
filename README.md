@@ -3,4 +3,4 @@ Responsive
 
 A simple responsive application 
 
-Html / css project
+Html / css project - javascript free
